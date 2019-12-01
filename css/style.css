@@ -1,0 +1,36 @@
+*{
+	 margin: 0px;
+}
+
+
+
+body{
+	font-family: 'Roboto', sans-serif;
+	background:url(../bg.jpg);
+	background-repeat: no-repeat;
+	background size:cover;
+}
+
+
+.container {
+	
+	width: 1140px;
+	margin: 0 auto;
+
+
+}
+
+p {
+
+    border:1px solid #161616;
+
+}
+
+.login-section {
+
+}
+
+.login-section img{
+	
+}
+
